@@ -1,7 +1,7 @@
 # An Intelligent Question Answering Conversational Agent Chatbot
 
 
-## Dataset we are using is:
+## Dataset:
 Cornell Movie--Dialogs Corpus
 https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
